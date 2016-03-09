@@ -1,0 +1,1 @@
+angular.module('SignupModule' , ['tostr','compareTo']);
